@@ -1,4 +1,4 @@
-from getPositions import all_positions_and_starting_indices
+from get_positions import all_positions_and_starting_indices
 from optimize import optimize_arrangements
 from plotting import plot_lot
 
