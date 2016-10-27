@@ -1,3 +1,0 @@
-TEST = "aaaad"
-
-class 
