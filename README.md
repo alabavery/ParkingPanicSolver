@@ -17,4 +17,4 @@ moves needed to complete the level.  These moves are then depicted graphically t
 
 Here is a demo of ParkingPanicSolver at work.  The yellow bar represents the parking lot exit, each rectangle represents a vehicle, and the red vehicle represents the vehicle that the player must get out of the parking lot.
 
-[![Demo CountPages alpha](https://j.gifs.com/Rg8yYO.gif)](https://www.youtube.com/watch?v=XMG7LTKAoFg)
+        [![Demo CountPages alpha](https://j.gifs.com/Rg8yYO.gif)](https://www.youtube.com/watch?v=XMG7LTKAoFg)
