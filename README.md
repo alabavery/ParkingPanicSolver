@@ -17,4 +17,4 @@ moves needed to complete the level.  These moves are then depicted graphically t
 
 Browse the Wiki to learn more.
 
-[![Demo CountPages alpha](https://j.gifs.com/Mj7nYO.gif)](https://www.youtube.com/watch?v=XMG7LTKAoFg)
+[![Demo CountPages alpha](https://j.gifs.com/Rg8yYO.gif)](https://www.youtube.com/watch?v=XMG7LTKAoFg)
