@@ -16,3 +16,5 @@ algorithm that takes as input the starting state for a level of Parking Panic an
 moves needed to complete the level.  These moves are then depicted graphically through [PyPlot](http://matplotlib.org/api/pyplot_api.html).
 
 Browse the Wiki to learn more.
+
+[![Demo CountPages alpha](https://j.gifs.com/Mj7nYO.gif)](https://www.youtube.com/watch?v=XMG7LTKAoFg)
